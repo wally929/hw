@@ -36,5 +36,5 @@ int main()
         }
     }
     cout << endl;
-    cout << "m" << endl;
+    cout << "d" << endl;
 }
