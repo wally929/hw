@@ -36,5 +36,9 @@ int main()
         }
     }
     cout << endl;
-    cout << "c" << endl;
+<<<<<<< HEAD
+    cout << "d" << endl;
+=======
+    cout << "d" << endl;
+>>>>>>> hotfix
 }
