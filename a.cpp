@@ -36,5 +36,5 @@ int main()
         }
     }
     cout << endl;
-    cout << "n" << endl;
+    cout << "c" << endl;
 }
